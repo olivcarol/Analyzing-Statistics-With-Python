@@ -1,8 +1,5 @@
-![acadia](https://user-images.githubusercontent.com/80420919/121839524-a6d1a680-ccb0-11eb-842a-df27e1c3c3d4.jpg)
-
-Course: "Learn Statistics with Python" (Codecademy)
-
 # Traveling to Acadia
+![acadia](https://user-images.githubusercontent.com/80420919/121839524-a6d1a680-ccb0-11eb-842a-df27e1c3c3d4.jpg)
 
 Imagine you work at a travel agency and want to inform your customers of the best time to visit one of your favorite vacation locations, Acadia, Maine.
 In this project, you will use flower bloom data, and flight information to recommend the best time of year for someone to make a trip to Maine.
